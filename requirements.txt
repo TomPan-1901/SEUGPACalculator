@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+Js2Py==0.71
+PySide2==5.15.2.1
+requests==2.27.1
